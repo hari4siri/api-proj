@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="I core suite" 
+	thread-count="4" parallel="tests">
+	
+	<listeners>
+		<listener class-name="listeners.API_ExtentReportListener" />
+	</listeners>
+	
+
+	<test name="sample test">
+		<classes>
+			<class name="api_tests.sampletest_get">
+			</class>
+			
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,4634 @@
+2022-11-16 13:03:04 INFO  ICoreRestServices:35 - response code: 200
+2022-11-16 13:03:04 INFO  ICoreRestServices:36 - response code: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 13:09:43 INFO  ICoreRestServices:34 - response code: 200
+2022-11-16 13:09:43 INFO  ICoreRestServices:35 - response code: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 13:14:59 INFO  ICoreRestServices:34 - response code: 429
+2022-11-16 13:14:59 INFO  ICoreRestServices:35 - response code: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 13:15:30 INFO  ICoreRestServices:34 - response code: 200
+2022-11-16 13:15:30 INFO  ICoreRestServices:35 - response code: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 13:16:38 INFO  ICoreRestServices:34 - response code: 429
+2022-11-16 13:16:38 INFO  ICoreRestServices:35 - response code: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 13:22:04 INFO  ICoreRestServices:27 - response code: 200
+2022-11-16 13:22:04 INFO  ICoreRestServices:28 - response code: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 13:23:32 INFO  ICoreRestServices:48 - response code: 429
+2022-11-16 13:23:32 INFO  ICoreRestServices:49 - response code: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+    <script type="text/javascript" onload="__ezcl.handle(true);" async="async" src="/utilcave_com/inc/ezcl.webp?cb=4"/>
+  </body>
+</html>
+2022-11-16 13:23:33 INFO  ICoreRestServices:27 - response code: 200
+2022-11-16 13:23:33 INFO  ICoreRestServices:28 - response code: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 13:24:47 INFO  ICoreRestServices:48 - response code: 200
+2022-11-16 13:24:47 INFO  ICoreRestServices:49 - response code: {
+    "status": "success",
+    "data": {
+        "id": 3990
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-11-16 13:24:48 INFO  ICoreRestServices:27 - response code: 200
+2022-11-16 13:24:48 INFO  ICoreRestServices:28 - response code: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 13:31:48 INFO  ICoreRestServices:48 - response code: 429
+2022-11-16 13:31:48 INFO  ICoreRestServices:49 - response code: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+    <script type="text/javascript" onload="__ezcl.handle(true);" async="async" src="/utilcave_com/inc/ezcl.webp?cb=4"/>
+  </body>
+</html>
+2022-11-16 13:31:49 INFO  ICoreRestServices:27 - response code: 429
+2022-11-16 13:31:49 INFO  ICoreRestServices:28 - response code: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 13:32:06 INFO  ICoreRestServices:48 - response code: 429
+2022-11-16 13:32:06 INFO  ICoreRestServices:49 - response code: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+    <script type="text/javascript" onload="__ezcl.handle(true);" async="async" src="/utilcave_com/inc/ezcl.webp?cb=4"/>
+  </body>
+</html>
+2022-11-16 13:32:07 INFO  ICoreRestServices:27 - response code: 429
+2022-11-16 13:32:07 INFO  ICoreRestServices:28 - response code: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 13:32:23 INFO  ICoreRestServices:48 - response code: 429
+2022-11-16 13:32:23 INFO  ICoreRestServices:49 - response code: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+    <script type="text/javascript" onload="__ezcl.handle(true);" async="async" src="/utilcave_com/inc/ezcl.webp?cb=4"/>
+  </body>
+</html>
+2022-11-16 13:32:24 INFO  ICoreRestServices:27 - response code: 429
+2022-11-16 13:32:24 INFO  ICoreRestServices:28 - response code: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 13:32:48 INFO  ICoreRestServices:48 - response code: 200
+2022-11-16 13:32:48 INFO  ICoreRestServices:49 - response code: {
+    "status": "success",
+    "data": {
+        "id": 4086
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-11-16 13:32:49 INFO  ICoreRestServices:27 - response code: 429
+2022-11-16 13:32:50 INFO  ICoreRestServices:28 - response code: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+    <script type="text/javascript" onload="__ezcl.handle(true);" async="async" src="/utilcave_com/inc/ezcl.webp?cb=4"/>
+  </body>
+</html>
+2022-11-16 13:34:48 INFO  ICoreRestServices:48 - response code: 429
+2022-11-16 13:34:48 INFO  ICoreRestServices:49 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 13:34:49 INFO  ICoreRestServices:27 - response code: 429
+2022-11-16 13:34:49 INFO  ICoreRestServices:28 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 13:35:11 INFO  ICoreRestServices:48 - response code: 429
+2022-11-16 13:35:11 INFO  ICoreRestServices:49 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 13:35:13 INFO  ICoreRestServices:27 - response code: 429
+2022-11-16 13:35:13 INFO  ICoreRestServices:28 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 13:35:31 INFO  ICoreRestServices:48 - response code: 200
+2022-11-16 13:35:31 INFO  ICoreRestServices:49 - response body: {
+    "status": "success",
+    "data": {
+        "id": 7634
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-11-16 13:35:33 INFO  ICoreRestServices:27 - response code: 200
+2022-11-16 13:35:33 INFO  ICoreRestServices:28 - response body: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 13:37:47 INFO  ICoreRestServices:51 - response code: 429
+2022-11-16 13:37:47 INFO  ICoreRestServices:52 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 13:37:49 INFO  ICoreRestServices:30 - response code: 200
+2022-11-16 13:37:49 INFO  ICoreRestServices:31 - response body: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 13:41:38 INFO  ICoreRestServices:52 - response code: 200
+2022-11-16 13:41:38 INFO  ICoreRestServices:53 - response body: {
+    "status": "success",
+    "data": {
+        "id": 3892
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-11-16 13:41:39 INFO  ICoreRestServices:31 - response code: 429
+2022-11-16 13:41:39 INFO  ICoreRestServices:32 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 13:42:14 INFO  ICoreRestServices:52 - response code: 429
+2022-11-16 13:42:14 INFO  ICoreRestServices:53 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 13:42:15 INFO  ICoreRestServices:31 - response code: 200
+2022-11-16 13:42:15 INFO  ICoreRestServices:32 - response body: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 14:07:20 INFO  ICoreRestServices:48 - response code: 429
+2022-11-16 14:07:21 INFO  ICoreRestServices:49 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 14:07:22 INFO  ICoreRestServices:27 - response code: 200
+2022-11-16 14:07:22 INFO  ICoreRestServices:28 - response body: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 14:20:41 INFO  ICoreRestServices:48 - response code: 429
+2022-11-16 14:20:41 INFO  ICoreRestServices:49 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 14:20:43 INFO  ICoreRestServices:27 - response code: 200
+2022-11-16 14:20:43 INFO  ICoreRestServices:28 - response body: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 14:24:27 INFO  ICoreRestServices:48 - response code: 200
+2022-11-16 14:24:27 INFO  ICoreRestServices:49 - response body: {
+    "status": "success",
+    "data": {
+        "id": 6298
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-11-16 18:32:15 INFO  ICoreRestServices:49 - response code: 200
+2022-11-16 18:32:15 INFO  ICoreRestServices:50 - response body: {
+    "status": "success",
+    "data": {
+        "id": 1615
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-11-16 18:32:40 INFO  ICoreRestServices:48 - response code: 200
+2022-11-16 18:32:40 INFO  ICoreRestServices:49 - response body: {
+    "status": "success",
+    "data": {
+        "id": 5394
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-11-16 18:32:41 INFO  ICoreRestServices:27 - response code: 429
+2022-11-16 18:32:41 INFO  ICoreRestServices:28 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 18:32:51 INFO  ICoreRestServices:48 - response code: 429
+2022-11-16 18:32:51 INFO  ICoreRestServices:49 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 18:32:53 INFO  ICoreRestServices:27 - response code: 200
+2022-11-16 18:32:53 INFO  ICoreRestServices:28 - response body: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 18:35:07 INFO  ICoreRestServices:48 - response code: 429
+2022-11-16 18:35:07 INFO  ICoreRestServices:49 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-16 18:35:08 INFO  ICoreRestServices:27 - response code: 200
+2022-11-16 18:35:08 INFO  ICoreRestServices:28 - response body: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 18:35:09 INFO  ICoreRestServices:22 - *************from logger*********[{id=1, employee_name=Tiger Nixon, employee_salary=320800, employee_age=61, profile_image=}, {id=2, employee_name=Garrett Winters, employee_salary=170750, employee_age=63, profile_image=}, {id=3, employee_name=Ashton Cox, employee_salary=86000, employee_age=66, profile_image=}, {id=4, employee_name=Cedric Kelly, employee_salary=433060, employee_age=22, profile_image=}, {id=5, employee_name=Airi Satou, employee_salary=162700, employee_age=33, profile_image=}, {id=6, employee_name=Brielle Williamson, employee_salary=372000, employee_age=61, profile_image=}, {id=7, employee_name=Herrod Chandler, employee_salary=137500, employee_age=59, profile_image=}, {id=8, employee_name=Rhona Davidson, employee_salary=327900, employee_age=55, profile_image=}, {id=9, employee_name=Colleen Hurst, employee_salary=205500, employee_age=39, profile_image=}, {id=10, employee_name=Sonya Frost, employee_salary=103600, employee_age=23, profile_image=}, {id=11, employee_name=Jena Gaines, employee_salary=90560, employee_age=30, profile_image=}, {id=12, employee_name=Quinn Flynn, employee_salary=342000, employee_age=22, profile_image=}, {id=13, employee_name=Charde Marshall, employee_salary=470600, employee_age=36, profile_image=}, {id=14, employee_name=Haley Kennedy, employee_salary=313500, employee_age=43, profile_image=}, {id=15, employee_name=Tatyana Fitzpatrick, employee_salary=385750, employee_age=19, profile_image=}, {id=16, employee_name=Michael Silva, employee_salary=198500, employee_age=66, profile_image=}, {id=17, employee_name=Paul Byrd, employee_salary=725000, employee_age=64, profile_image=}, {id=18, employee_name=Gloria Little, employee_salary=237500, employee_age=59, profile_image=}, {id=19, employee_name=Bradley Greer, employee_salary=132000, employee_age=41, profile_image=}, {id=20, employee_name=Dai Rios, employee_salary=217500, employee_age=35, profile_image=}, {id=21, employee_name=Jenette Caldwell, employee_salary=345000, employee_age=30, profile_image=}, {id=22, employee_name=Yuri Berry, employee_salary=675000, employee_age=40, profile_image=}, {id=23, employee_name=Caesar Vance, employee_salary=106450, employee_age=21, profile_image=}, {id=24, employee_name=Doris Wilder, employee_salary=85600, employee_age=23, profile_image=}]
+2022-11-16 18:36:49 INFO  ICoreRestServices:48 - response code: 200
+2022-11-16 18:36:49 INFO  ICoreRestServices:49 - response body: {
+    "status": "success",
+    "data": {
+        "id": 4642
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-11-16 18:36:50 INFO  ICoreRestServices:27 - response code: 200
+2022-11-16 18:36:50 INFO  ICoreRestServices:28 - response body: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-16 18:36:50 INFO  ICoreRestServices:22 - *************from logger*********null
+2022-11-17 15:53:28 INFO  ICoreRestServices:48 - response code: 200
+2022-11-17 15:53:28 INFO  ICoreRestServices:49 - response body: {
+    "status": "success",
+    "data": {
+        "id": 8498
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-11-17 15:53:29 INFO  ICoreRestServices:27 - response code: 200
+2022-11-17 15:53:29 INFO  ICoreRestServices:28 - response body: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-17 15:53:30 INFO  ICoreRestServices:22 - *************from logger*********[Tiger Nixon, Garrett Winters, Ashton Cox, Cedric Kelly, Airi Satou, Brielle Williamson, Herrod Chandler, Rhona Davidson, Colleen Hurst, Sonya Frost, Jena Gaines, Quinn Flynn, Charde Marshall, Haley Kennedy, Tatyana Fitzpatrick, Michael Silva, Paul Byrd, Gloria Little, Bradley Greer, Dai Rios, Jenette Caldwell, Yuri Berry, Caesar Vance, Doris Wilder]
+2022-11-17 15:53:56 INFO  ICoreRestServices:48 - response code: 429
+2022-11-17 15:53:56 INFO  ICoreRestServices:49 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2022-11-17 20:03:54 INFO  ICoreRestServices:48 - response code: 200
+2022-11-17 20:03:54 INFO  ICoreRestServices:49 - response body: {
+    "status": "success",
+    "data": {
+        "id": 7438
+    },
+    "message": "Successfully! Record has been added."
+}
+2022-11-17 20:03:56 INFO  ICoreRestServices:27 - response code: 200
+2022-11-17 20:03:56 INFO  ICoreRestServices:28 - response body: {
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "employee_name": "Tiger Nixon",
+            "employee_salary": 320800,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 2,
+            "employee_name": "Garrett Winters",
+            "employee_salary": 170750,
+            "employee_age": 63,
+            "profile_image": ""
+        },
+        {
+            "id": 3,
+            "employee_name": "Ashton Cox",
+            "employee_salary": 86000,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 4,
+            "employee_name": "Cedric Kelly",
+            "employee_salary": 433060,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 5,
+            "employee_name": "Airi Satou",
+            "employee_salary": 162700,
+            "employee_age": 33,
+            "profile_image": ""
+        },
+        {
+            "id": 6,
+            "employee_name": "Brielle Williamson",
+            "employee_salary": 372000,
+            "employee_age": 61,
+            "profile_image": ""
+        },
+        {
+            "id": 7,
+            "employee_name": "Herrod Chandler",
+            "employee_salary": 137500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 8,
+            "employee_name": "Rhona Davidson",
+            "employee_salary": 327900,
+            "employee_age": 55,
+            "profile_image": ""
+        },
+        {
+            "id": 9,
+            "employee_name": "Colleen Hurst",
+            "employee_salary": 205500,
+            "employee_age": 39,
+            "profile_image": ""
+        },
+        {
+            "id": 10,
+            "employee_name": "Sonya Frost",
+            "employee_salary": 103600,
+            "employee_age": 23,
+            "profile_image": ""
+        },
+        {
+            "id": 11,
+            "employee_name": "Jena Gaines",
+            "employee_salary": 90560,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 12,
+            "employee_name": "Quinn Flynn",
+            "employee_salary": 342000,
+            "employee_age": 22,
+            "profile_image": ""
+        },
+        {
+            "id": 13,
+            "employee_name": "Charde Marshall",
+            "employee_salary": 470600,
+            "employee_age": 36,
+            "profile_image": ""
+        },
+        {
+            "id": 14,
+            "employee_name": "Haley Kennedy",
+            "employee_salary": 313500,
+            "employee_age": 43,
+            "profile_image": ""
+        },
+        {
+            "id": 15,
+            "employee_name": "Tatyana Fitzpatrick",
+            "employee_salary": 385750,
+            "employee_age": 19,
+            "profile_image": ""
+        },
+        {
+            "id": 16,
+            "employee_name": "Michael Silva",
+            "employee_salary": 198500,
+            "employee_age": 66,
+            "profile_image": ""
+        },
+        {
+            "id": 17,
+            "employee_name": "Paul Byrd",
+            "employee_salary": 725000,
+            "employee_age": 64,
+            "profile_image": ""
+        },
+        {
+            "id": 18,
+            "employee_name": "Gloria Little",
+            "employee_salary": 237500,
+            "employee_age": 59,
+            "profile_image": ""
+        },
+        {
+            "id": 19,
+            "employee_name": "Bradley Greer",
+            "employee_salary": 132000,
+            "employee_age": 41,
+            "profile_image": ""
+        },
+        {
+            "id": 20,
+            "employee_name": "Dai Rios",
+            "employee_salary": 217500,
+            "employee_age": 35,
+            "profile_image": ""
+        },
+        {
+            "id": 21,
+            "employee_name": "Jenette Caldwell",
+            "employee_salary": 345000,
+            "employee_age": 30,
+            "profile_image": ""
+        },
+        {
+            "id": 22,
+            "employee_name": "Yuri Berry",
+            "employee_salary": 675000,
+            "employee_age": 40,
+            "profile_image": ""
+        },
+        {
+            "id": 23,
+            "employee_name": "Caesar Vance",
+            "employee_salary": 106450,
+            "employee_age": 21,
+            "profile_image": ""
+        },
+        {
+            "id": 24,
+            "employee_name": "Doris Wilder",
+            "employee_salary": 85600,
+            "employee_age": 23,
+            "profile_image": ""
+        }
+    ],
+    "message": "Successfully! All records has been fetched."
+}
+2022-11-17 20:03:57 INFO  ICoreRestServices:22 - *************from logger*********[Tiger Nixon, Garrett Winters, Ashton Cox, Cedric Kelly, Airi Satou, Brielle Williamson, Herrod Chandler, Rhona Davidson, Colleen Hurst, Sonya Frost, Jena Gaines, Quinn Flynn, Charde Marshall, Haley Kennedy, Tatyana Fitzpatrick, Michael Silva, Paul Byrd, Gloria Little, Bradley Greer, Dai Rios, Jenette Caldwell, Yuri Berry, Caesar Vance, Doris Wilder]
+2023-02-14 12:42:07 INFO  ICoreRestServices:48 - response code: 200
+2023-02-14 12:42:07 INFO  ICoreRestServices:49 - response body: {
+    "status": "success",
+    "data": {
+        "id": 7996
+    },
+    "message": "Successfully! Record has been added."
+}
+2023-02-14 12:42:08 INFO  ICoreRestServices:27 - response code: 429
+2023-02-14 12:42:09 INFO  ICoreRestServices:28 - response body: <html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Too Many Requests</title>
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"/>
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"/>
+    <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+  </head>
+  <body>
+    <div class="flex-center position-ref full-height">
+      <div class="code">
+                429            </div>
+      <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+    </div>
+  </body>
+</html>
+2023-02-15 12:20:06 INFO  ICoreRestServices:26 - response code: 401
+2023-02-15 12:20:07 INFO  ICoreRestServices:27 - response body: {
+    "error": {
+        "type": "request_validation",
+        "message": "Authorization header with scheme 'Bearer' required",
+        "errors": [
+            {
+                "path": "/api/v1/userManagementService/users/{userId}",
+                "message": "Authorization header with scheme 'Bearer' required"
+            }
+        ]
+    }
+}
+2023-02-15 12:22:18 INFO  ICoreRestServices:26 - response code: 401
+2023-02-15 12:22:18 INFO  ICoreRestServices:27 - response body: {
+    "error": {
+        "type": "request_validation",
+        "message": "Authorization header with scheme 'Bearer' required",
+        "errors": [
+            {
+                "path": "/api/v1/userManagementService/users/{userId}",
+                "message": "Authorization header with scheme 'Bearer' required"
+            }
+        ]
+    }
+}
+2023-02-15 12:25:19 INFO  ICoreRestServices:26 - response code: 401
+2023-02-15 12:25:19 INFO  ICoreRestServices:27 - response body: {
+    "code": 401,
+    "status": {
+        "message": "Invalid token specified: Cannot read properties of undefined (reading 'replace')"
+    }
+}
+2023-02-15 12:35:58 INFO  ICoreRestServices:26 - response code: 401
+2023-02-15 12:35:58 INFO  ICoreRestServices:27 - response body: {
+    "code": 401,
+    "status": {
+        "message": "Invalid token specified: Cannot read properties of undefined (reading 'replace')"
+    }
+}
+2023-02-15 12:37:49 INFO  ICoreRestServices:26 - response code: 401
+2023-02-15 12:37:49 INFO  ICoreRestServices:27 - response body: {
+    "code": 401,
+    "status": {
+        "message": "Invalid token specified: Cannot read properties of undefined (reading 'replace')"
+    }
+}
+2023-02-15 12:43:15 INFO  ICoreRestServices:26 - response code: 401
+2023-02-15 12:43:15 INFO  ICoreRestServices:27 - response body: {
+    "error": {
+        "type": "request_validation",
+        "message": "Authorization header with scheme 'Bearer' required",
+        "errors": [
+            {
+                "path": "/api/v1/userManagementService/users/{userId}",
+                "message": "Authorization header with scheme 'Bearer' required"
+            }
+        ]
+    }
+}
+2023-02-15 12:44:53 INFO  ICoreRestServices:26 - response code: 200
+2023-02-15 12:44:53 INFO  ICoreRestServices:27 - response body: {
+    "id": "adm_hari_babu_averydennison_com",
+    "type": "email",
+    "roles": [
+        {
+            "role": "4fb627f8-377a-4b34-bc64-ea360392bc78",
+            "organization": "averydennison-org-j82t0rk44s"
+        }
+    ],
+    "email": "adm.hari.babu@averydennison.com"
+}
+2023-02-22 14:30:13 INFO  ICoreRestServices:26 - response code: 200
+2023-02-22 14:30:13 INFO  ICoreRestServices:27 - response body: {
+    "id": "adm_hari_babu_averydennison_com",
+    "type": "email",
+    "roles": [
+        {
+            "role": "4fb627f8-377a-4b34-bc64-ea360392bc78",
+            "organization": "averydennison-org-j82t0rk44s"
+        }
+    ],
+    "email": "adm.hari.babu@averydennison.com"
+}
+2023-02-23 11:53:35 INFO  ICoreRestServices:47 - response code: 404
+2023-02-23 11:53:36 INFO  ICoreRestServices:48 - response body: <html lang="en">
+  <head>
+    <script>
+            ;(function (w, d, s, l, i) {
+                w[l] = w[l] || []
+                w[l].push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js',
+                })
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != 'dataLayer' ? '&amp;l=' + l : ''
+                j.async = true
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl
+                f.parentNode.insertBefore(j, f)
+            })(window, document, 'script', 'dataLayer', 'GTM-KB622KF')
+        </script>
+    <script src="https://js.stripe.com/v3/"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+    <meta name="description" content="A hosted REST-API ready to respond to your AJAX requests"/>
+    <title>
+            Reqres - A hosted REST-API ready to respond to your AJAX requests
+        </title>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="/css/app.css"/>
+    <script type="text/javascript" src="//m.servedby-buysellads.com/monetization.custom.js"/>
+  </head>
+  <body>
+    <div class="header-content">
+      <header class="main-header">
+        <section class="wrap">
+          <h1 class="logo">
+            <a shape="rect" href="/">
+              <img src="/img/logo.png" alt=""/>
+            </a>
+          </h1>
+        </section>
+      </header>
+      <main class="the-sell">
+        <div class="wrap">
+          <h2 class="tagline">
+                        Test your front-end against a real API
+                    </h2>
+          <section class="key-sells">
+            <div class="sell">
+              <div class="v-center">
+                <h3>Fake data</h3>
+                <p>
+                                    No more tedious sample data creation, we've
+                                    got it covered.
+                                </p>
+              </div>
+              <i class="fa fa-cloud-download"/>
+            </div>
+            <div class="sell">
+              <div class="v-center">
+                <h3>Real responses</h3>
+                <p>
+                                    Develop with real response codes. GET, POST,
+                                    PUT &amp; DELETE supported.
+                                </p>
+              </div>
+              <i class="fa fa-code"/>
+            </div>
+            <div class="sell">
+              <div class="v-center">
+                <h3>Always-on</h3>
+                <p>
+
+                                    24/7                   <strong>
+                    <em>free</em>
+                  </strong>
+ access
+                                    in your development phases. Go nuts.
+                                                </p>
+              </div>
+              <i class="fa fa-toggle-on"/>
+            </div>
+          </section>
+          <h2 class="tagline">
+                        A hosted REST-API ready to respond to your AJAX
+                        requests.
+                    </h2>
+          <div class="t-center main-arrow">
+            <i class="fa fa-arrow-circle-down"/>
+          </div>
+          <script id="_carbonads_js" async="async" type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6K3E&amp;placement=reqresin"/>
+        </div>
+      </main>
+    </div>
+    <div class="container">404</div>
+    <footer>
+      <div class="wrap">
+        <hr class="dark"/>
+        <p class="t-center">
+
+                    Made for developers and designers by
+                              <a shape="rect" href="https://benhowdle.im">Ben Howdle</a>
+        </p>
+      </div>
+    </footer>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.3/fastclick.min.js"/>
+    <script src="/js/app.js"/>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-174008107-1"/>
+    <script>
+            window.dataLayer = window.dataLayer || []
+            function gtag() {
+                dataLayer.push(arguments)
+            }
+            gtag('js', new Date())
+
+            gtag('config', 'UA-174008107-1')
+        </script>
+    <script>
+            ;(function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r
+                ;(i[r] =
+                    i[r] ||
+                    function () {
+                        ;(i[r].q = i[r].q || []).push(arguments)
+                    }),
+                    (i[r].l = 1 * new Date())
+                ;(a = s.createElement(o)), (m = s.getElementsByTagName(o)[0])
+                a.async = 1
+                a.src = g
+                m.parentNode.insertBefore(a, m)
+            })(
+                window,
+                document,
+                'script',
+                '//www.google-analytics.com/analytics.js',
+                'ga'
+            )
+
+            ga('create', 'UA-55888877-1', 'auto')
+            ga('send', 'pageview')
+        </script>
+    <script>
+            ;(function () {
+                if (typeof _bsa !== 'undefined' &amp;&amp; _bsa) {
+                    _bsa.init(
+                        'custom',
+                        'CEBIP53J',
+                        'placement:reqresin-sponsor',
+                        {
+                            target: '#impeccable-js',
+                            template: `
+        &lt;a href="##link##" rel="sponsored noopener" target="_blank" title="##company## — ##tagline##"&gt;
+        &lt;img src="##logo##" style="background-color: ##backgroundColor##"&gt;
+        &lt;div class="sponsor-description"&gt;##description##&lt;/div&gt;
+        &lt;div class="sponsor-cta" style="background-color: ##backgroundColor##; color: ##textColor##"&gt;##callToAction##&lt;/div&gt;
+        &lt;/a&gt;
+        `,
+                        }
+                    )
+                }
+            })()
+        </script>
+  </body>
+</html>
+2023-02-23 11:53:36 INFO  ICoreRestServices:26 - response code: 404
+2023-02-23 11:53:36 INFO  ICoreRestServices:27 - response body: Not found
+2023-02-23 11:54:09 INFO  ICoreRestServices:47 - response code: 201
+2023-02-23 11:54:09 INFO  ICoreRestServices:48 - response body: {
+    "id": "356",
+    "createdAt": "2023-02-23T06:24:20.632Z"
+}
+2023-02-23 11:54:10 INFO  ICoreRestServices:26 - response code: 404
+2023-02-23 11:54:10 INFO  ICoreRestServices:27 - response body: {
+    
+}
+2023-02-23 11:54:11 INFO  ICoreRestServices:22 - *************from logger*********null
+2023-02-23 11:56:25 INFO  ICoreRestServices:47 - response code: 201
+2023-02-23 11:56:25 INFO  ICoreRestServices:48 - response body: {
+    "id": "597",
+    "createdAt": "2023-02-23T06:26:36.156Z"
+}
+2023-02-23 11:56:25 INFO  ICoreRestServices:26 - response code: 200
+2023-02-23 11:56:25 INFO  ICoreRestServices:27 - response body: {
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2023-02-23 11:56:26 INFO  ICoreRestServices:22 - *************from logger*********[Michael, Lindsay, Tobias, Byron, George, Rachel]
+2023-02-23 11:57:24 INFO  ICoreRestServices:47 - response code: 201
+2023-02-23 11:57:24 INFO  ICoreRestServices:48 - response body: {
+    "id": "16",
+    "createdAt": "2023-02-23T06:27:34.843Z"
+}
+2023-02-23 11:57:24 INFO  ICoreRestServices:26 - response code: 200
+2023-02-23 11:57:24 INFO  ICoreRestServices:27 - response body: {
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2023-02-23 11:57:25 INFO  ICoreRestServices:22 - *************from logger*********[Michael, Lindsay, Tobias, Byron, George, Rachel]
+2023-02-23 12:07:58 INFO  ICoreRestServices:47 - response code: 201
+2023-02-23 12:07:58 INFO  ICoreRestServices:48 - response body: {
+    "id": "964",
+    "createdAt": "2023-02-23T06:37:59.385Z"
+}
+2023-02-23 12:07:59 INFO  ICoreRestServices:26 - response code: 200
+2023-02-23 12:07:59 INFO  ICoreRestServices:27 - response body: {
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+2023-02-23 12:08:00 INFO  ICoreRestServices:22 - *************from logger*********[Michael, Lindsay, Tobias, Byron, George, Rachel]

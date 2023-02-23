@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-23T12:07:54 IST" name="I core suite" finished-at="2023-02-23T12:08:00 IST" duration-ms="6231">
+    <groups>
+    </groups>
+    <test started-at="2023-02-23T12:07:54 IST" name="sample test" finished-at="2023-02-23T12:08:00 IST" duration-ms="6231">
+      <class name="api_tests.sampletest_get">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api_tests.sampletest_get@146dfe6]" started-at="2023-02-23T12:07:54 IST" name="setup" finished-at="2023-02-23T12:07:55 IST" duration-ms="1129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createEmployee()[pri:0, instance:api_tests.sampletest_get@146dfe6]" started-at="2023-02-23T12:07:55 IST" name="createEmployee" finished-at="2023-02-23T12:07:59 IST" duration-ms="3368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEmployee -->
+        <test-method signature="getWeatherDetails()[pri:0, instance:api_tests.sampletest_get@146dfe6]" started-at="2023-02-23T12:07:59 IST" name="getWeatherDetails" finished-at="2023-02-23T12:08:00 IST" duration-ms="1649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDetails -->
+      </class> <!-- api_tests.sampletest_get -->
+    </test> <!-- sample test -->
+  </suite> <!-- I core suite -->
+</testng-results>
